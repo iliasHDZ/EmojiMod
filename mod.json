@@ -1,0 +1,24 @@
+{
+	"geode": "3.4.0",
+	"gd": {
+		"win": "2.206"
+	},
+	"resources": {
+		"files": [
+			"resources/chatFont.fnt",
+			"resources/chatFont_hd.fnt",
+			"resources/chatFont_uhd.fnt",
+			"resources/chatFont.png",
+			"resources/chatFont_hd.png",
+			"resources/chatFont_uhd.png"
+		]
+    },
+	"tags": [
+		"interface"
+	],
+	"version": "v1.0.0",
+	"id": "iliashdz.emoji-mod",
+	"name": "Emoji Mod",
+	"developer": "IliasHDZ",
+	"description": "You can now add emojis to your comments in Geometry Dash!"
+}
